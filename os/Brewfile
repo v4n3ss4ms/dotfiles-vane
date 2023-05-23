@@ -1,0 +1,20 @@
+tap 'homebrew/bundle'
+tap 'homebrew/core'
+tap 'homebrew/cask'
+
+cask "google-chrome"
+cask "firefox"
+cask "spotify"
+cask "jetbrains-toolbox"
+cask "appcleaner"
+cask "docker"
+cask "gas-mask"
+cask "1password"
+cask "rectangle"
+cask "maccy"
+cask "shottr"
+cask "notion"
+brew "git"
+brew "mas"
+brew "micro"
+brew "volta"
