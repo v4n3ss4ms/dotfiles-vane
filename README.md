@@ -61,6 +61,11 @@ If you have your plugin configured you would need to push it to your favorite re
 ```shell
 dotfiles install-plugin <GIT_REPOSITORY_URL>
 ```
+or
+
+```shell
+dotfiles install-plugin -- <GIT_REPOSITORY_URL>
+```
 
 For example:
 
