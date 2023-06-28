@@ -1,2 +1,2 @@
-export EDITOR="/opt/homebrew/bin/micro"
+#export EDITOR="/opt/homebrew/bin/micro"
 

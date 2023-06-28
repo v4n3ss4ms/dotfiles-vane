@@ -21,3 +21,4 @@ brew "git"
 brew "mas"
 brew "micro"
 brew "volta"
+brew 'docker-compose'
